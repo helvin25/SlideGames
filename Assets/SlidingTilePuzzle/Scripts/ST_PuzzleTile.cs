@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+//edit new script
 public class ST_PuzzleTile : MonoBehaviour 
 {
 	// the target position for this tile.
